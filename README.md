@@ -1,4 +1,4 @@
-Site que mostra a hora do dia.
+# Site que mostra a hora do dia.
 
 Foi criado um arquivo modelo.html.
 
@@ -11,6 +11,7 @@ Pega o horário do momento atual e mostra uma imagem com fundo alterado. No
 caso se a hora for 0 a 12 mostra a imagem fotomanha, se a hora for de 12 a
 18 mostra a imagem fototarde senão mostra a fotonoite. 
 
-<p>
+##
+<p align=center>
     <img src=".github/siteHoraDia.png">
 </p>
